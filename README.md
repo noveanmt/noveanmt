@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Marshall 👋
 
+- 🔭 I’m currently working on building an updated home lab.
+- 🌱 I’m currently learning Dutch.
+- 👯 I’m looking to collaborate on the Microsoft Power Platform
+- 💬 Ask me about my summer job and where I got to travel.
+- ⚡ Fun fact: I know how to drive a Zamboni.
 <!--
 **noveanmt/noveanmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
